@@ -10,7 +10,7 @@
 
 ## 1-1'. Classifier model (Question)
 3. VGG (2014)  
-  * Question   
+  * Question 1
     parameters : 143,667,240  
     nn.Linear(Fully connected layer) 층에서 약 120,000,000개의 파라미터가 생성됨.  
     이 파라미터의 개수를 추후에 다른 모델에서 어떤 방식으로 감소시킬까?   
