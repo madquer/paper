@@ -1,6 +1,13 @@
 # Vision paper
 
 ## 1. Model
+history(keypoint)
+1. 2015 : GoogLeNet, ResNet
+2. 2016 : Inception, ResNet 응용
+3. 2017 : 다양한 구조, 경량화
+4. 2018 : NAS - Neural Architecture Search
+5. 2019
+
 ## 1-1. Classifier model
 
 1. LeNet (1998)
